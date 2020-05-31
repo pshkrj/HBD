@@ -9,12 +9,8 @@
 <a-scene embedded arjs="debugUIEnabled: false;">
 
     <a-assets>
-        <a-asset-item id="cake-obj" src="https://cdn.rawgit.com/HackyRoot/A-Frame-Examples/c6a977a7/Happy_Birthday/assets/cake.obj"></a-asset-item>
-        <a-asset-item id="cake-mtl" src="https://cdn.rawgit.com/HackyRoot/A-Frame-Examples/c6a977a7/Happy_Birthday/assets/cake.mtl"></a-asset-item>
-        <a-asset-item id="brush" src="https://cdn.rawgit.com/HackyRoot/A-Frame-Examples/c6a977a7/Happy_Birthday/assets/brush.json"></a-asset-item>
-        <!-- we've commnted it because it takes too much time to download and play this audio file           
-        <audio id="bday" src="https://cdn.rawgit.com/HackyRoot/A-Frame-Examples/c6a977a7/Happy_Birthday/assets/bday.mp3"></audio> 
-        -->
+        <a-asset-item id="Cake.gif" src="https://github.com/pshkrj/HBD/blob/master/Cake_gif.gif"></a-asset-item>
+        
     </a-assets>
 
 
